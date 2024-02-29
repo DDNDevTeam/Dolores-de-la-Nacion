@@ -1,0 +1,24 @@
+state = {
+	id = 1131
+	name = "STATE_1131"
+	manpower = 0
+	state_category = two
+
+	history = {
+		owner = MEX
+		add_core_of = MEX
+		
+		add_to_array = { state_victory_points = 10172 }
+		add_to_array = { state_victory_points = 13468 }
+		victory_points = { 10172 1 } #Aguascalientes
+		victory_points = { 13468 2 } #Zacatecas
+
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces = {
+		5052 7921 10172 12804 13468 
+	}
+}

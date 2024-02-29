@@ -1,0 +1,33 @@
+﻿l_english:
+
+ sonora_focus: "Sonoran Focus Tree"
+
+### Cosmetic Tags ###
+ SON: "Cortesian Confederation"
+ SON_ADJ: "Cortesian"
+ SON_DEF: "the Cortesian Confederation"
+ 
+ SON_national_populist: "Cortesian Falange"
+ SON_national_populist_DEF: "the Cortesian Falange"
+
+### Parties ###
+ SON_totalist_party: "RM"
+ SON_totalist_party_long: "Resistencia Mexicana"
+ SON_syndicalist_party: "RM"
+ SON_syndicalist_party_long: "Resistencia Mexicana"
+ SON_radical_socialist_party: "RM"
+ SON_radical_socialist_party_long: "Resistencia Mexicana"
+ SON_social_democrat_party: "PSD"
+ SON_social_democrat_party_long: "Partido Social Democrata"
+ SON_social_liberal_party: "PL (R)"
+ SON_social_liberal_party_long: "Partido Liberal (Radicales)"
+ SON_market_liberal_party: "PL (M)"
+ SON_market_liberal_party_long: "Partido Liberal (Moderados)"
+ SON_social_conservative_party: "UND"
+ SON_social_conservative_party_long: "Union Nacional Democratica"
+ SON_authoritarian_democrat_party: "PN"
+ SON_authoritarian_democrat_party_long: "Partido Conservador"
+ SON_paternal_autocrat_party: "EN"
+ SON_paternal_autocrat_party_long: "Ejército Nacional"
+ SON_national_populist_party: "MNS"
+ SON_national_populist_party_long: "Movimiento Nacionalista de Sonora"

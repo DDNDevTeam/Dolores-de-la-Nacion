@@ -1,0 +1,22 @@
+state = {
+	id = 1122
+	name = "STATE_1122"
+	manpower = 0
+	state_category = one
+
+	history = {
+		owner = MEX
+		add_core_of = MEX
+		
+		add_to_array = { state_victory_points = 8079 }
+		victory_points = { 8079 3 } #Poza Rica
+
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces = {
+		8079 12810 13466 
+	}
+}

@@ -1,0 +1,35 @@
+state = {
+	id = 474
+	name = "STATE_474"
+	manpower = 405364
+	state_category = three
+
+	history = {
+		owner = MEX
+		add_core_of = MEX
+		
+		add_to_array = { state_victory_points = 12715 }
+		add_to_array = { state_victory_points = 13455 }
+		add_to_array = { state_victory_points = 13457 }
+		victory_points = { 12715 5 } #Merida
+		victory_points = { 13455 1 } #Bacalar
+		victory_points = { 13457 1 } #Campeche
+
+		buildings = {
+			infrastructure = 2
+			dockyard = 1
+			industrial_complex = 1
+			air_base = 1
+			12715 = {
+				naval_base = 1
+			}
+			13455 = {
+				naval_base = 1
+			}
+		}
+	}
+
+	provinces = {
+		4904 4965 12715 13455 13457 13460 13462 13464 13465
+	}
+}

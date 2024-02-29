@@ -1,0 +1,24 @@
+state = {
+	id = 481
+	name = "STATE_481"
+	manpower = 452043
+	state_category = two
+
+	history = {
+		owner = MEX
+		add_core_of = MEX
+		#add_core_of = RGR
+		add_to_array = { state_victory_points = 4898 }
+		add_to_array = { state_victory_points = 10830 }
+		victory_points = { 4898 1 } #Gomez Palacio
+		victory_points = { 10830 3 } #Durango
+
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces = {
+		2037 4898 7935 10830 10916 12745 13470 13488 13880
+	}
+}

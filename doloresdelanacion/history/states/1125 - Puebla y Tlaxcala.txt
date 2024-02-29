@@ -1,0 +1,26 @@
+state = {
+	id = 1125
+	name = "STATE_1125"
+	manpower = 1453563
+	state_category = five
+
+	history = {
+		owner = MEX
+		add_core_of = MEX
+		
+		add_to_array = { state_victory_points = 7973 }
+		add_to_array = { state_victory_points = 13477 }
+		victory_points = { 7973 5 } #Tlaxcala
+		victory_points = { 13477 20 } #Puebla
+
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+			arms_factory = 1
+		}
+	}
+
+	provinces = {
+		7973 12721 12835 13477 
+	}
+}

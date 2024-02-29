@@ -1,0 +1,37 @@
+﻿capital = 483
+set_convoys = 10
+set_research_slots = 3
+
+### Politics ###
+set_politics = {
+	ruling_party = paternal_autocrat
+	last_election = "1936.6.15"
+	election_frequency = 60
+	elections_allowed = no
+}
+
+set_popularities = {
+	totalist = 0
+	syndicalist = 0
+	radical_socialist = 0
+	social_democrat = 35
+	social_liberal = 22
+	market_liberal = 15
+	social_conservative = 0
+	authoritarian_democrat = 0
+	paternal_autocrat = 28
+	national_populist = 0
+}
+
+add_ideas = {
+	# Laws
+	limited_exports
+
+	# National Spirits
+
+}
+
+### Country Leaders ###
+
+
+### Generals ###

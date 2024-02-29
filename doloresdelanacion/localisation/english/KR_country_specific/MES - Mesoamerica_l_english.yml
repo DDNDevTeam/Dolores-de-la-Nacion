@@ -1,0 +1,33 @@
+﻿l_english:
+
+ mesoamerica_focus: "Mesoamerican Focus Tree"
+
+### Cosmetic Tags ###
+ MES: "Mesoamerica"
+ MES_ADJ: "Mesoamerican"
+ MES_DEF: "the Mesoamerican Federation"
+ 
+ MES_national_populist: "Mesoamerican State"
+ MES_national_populist_DEF: "the Mesoamerican State"
+
+### Parties ###
+ MES_totalist_party: "RM"
+ MES_totalist_party_long: "Resistencia Mexicana"
+ MES_syndicalist_party: "RM"
+ MES_syndicalist_party_long: "Resistencia Mexicana"
+ MES_radical_socialist_party: "RM"
+ MES_radical_socialist_party_long: "Resistencia Mexicana"
+ MES_social_democrat_party: "PSD"
+ MES_social_democrat_party_long: "Partido Social Democrata"
+ MES_social_liberal_party: "PL (R)"
+ MES_social_liberal_party_long: "Partido Liberal (Radicales)"
+ MES_market_liberal_party: "PL (M)"
+ MES_market_liberal_party_long: "Partido Liberal (Moderados)"
+ MES_social_conservative_party: "UND"
+ MES_social_conservative_party_long: "Union Nacional Democratica"
+ MES_authoritarian_democrat_party: "PN"
+ MES_authoritarian_democrat_party_long: "Partido Conservador"
+ MES_paternal_autocrat_party: "EN"
+ MES_paternal_autocrat_party_long: "Ejército Nacional"
+ MES_national_populist_party: "MNS"
+ MES_national_populist_party_long: "Movimiento Nacionalista de Mesoamérica"

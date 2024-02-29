@@ -1,0 +1,34 @@
+﻿l_english:
+
+ jalisco_focus: "Sonoran Focus Tree"
+
+### Cosmetic Tags ###
+ JAL: "Jalisco"
+ JAL_ADJ: "Jaliscian"
+ JAL_DEF: "the Republic of Jalisco"
+ 
+ JAL_national_populist: "New Galicia"
+ JAL_national_populist_ADJ: "New Galician"
+ JAL_national_populist_DEF: "the Kingdom of New Galicia"
+
+### Parties ###
+ JAL_totalist_party: "RM"
+ JAL_totalist_party_long: "Resistencia Mexicana"
+ JAL_syndicalist_party: "RM"
+ JAL_syndicalist_party_long: "Resistencia Mexicana"
+ JAL_radical_socialist_party: "RM"
+ JAL_radical_socialist_party_long: "Resistencia Mexicana"
+ JAL_social_democrat_party: "PSD"
+ JAL_social_democrat_party_long: "Partido Social Democrata"
+ JAL_social_liberal_party: "PL (R)"
+ JAL_social_liberal_party_long: "Partido Liberal (Radicales)"
+ JAL_market_liberal_party: "PL (M)"
+ JAL_market_liberal_party_long: "Partido Liberal (Moderados)"
+ JAL_social_conservative_party: "UND"
+ JAL_social_conservative_party_long: "Union Nacional Democratica"
+ JAL_authoritarian_democrat_party: "PN"
+ JAL_authoritarian_democrat_party_long: "Partido Conservador"
+ JAL_paternal_autocrat_party: "EN"
+ JAL_paternal_autocrat_party_long: "Ejército Nacional"
+ JAL_national_populist_party: "PRNG"
+ JAL_national_populist_party_long: "Partido Realista de Nueva Galicia"

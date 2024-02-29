@@ -1,0 +1,28 @@
+state = {
+	id = 484
+	name = "STATE_484"
+	manpower = 66675
+	state_category = two
+
+	history = {
+		owner = MEX
+		add_core_of = MEX
+		#add_core_of = SON
+		
+		add_to_array = { state_victory_points = 12461 }
+		add_to_array = { state_victory_points = 12833 }
+		victory_points = { 12461 5 } #Tijuana
+		victory_points = { 12833 1 } #Mexicali
+
+		buildings = {
+			infrastructure = 1
+			12461 = {
+				naval_base = 1
+			}
+		}
+	}
+
+	provinces = {
+		1892 12461 12833 12859 13487 13491 13493 
+	}
+}

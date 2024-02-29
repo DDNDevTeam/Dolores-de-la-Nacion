@@ -1,0 +1,23 @@
+state = {
+	id = 482
+	name = "STATE_482"
+	manpower = 505000
+	state_category = two
+
+	history = {
+		owner = MEX
+		add_core_of = MEX
+		add_to_array = { state_victory_points = 1945 }
+		add_to_array = { state_victory_points = 12827 }
+		victory_points = { 1945 1 } #Ciudad Juarez
+		victory_points = { 12827 3 } #Chihuahua
+
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces = {
+		1945 8033 8097 10765 10809 12827 13481 13484 13486 
+	}
+}

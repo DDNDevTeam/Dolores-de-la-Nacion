@@ -1,0 +1,27 @@
+state = {
+	id = 483
+	name = "STATE_483"
+	manpower = 0
+	state_category = two
+
+	history = {
+		owner = MEX
+		add_core_of = MEX
+		#add_core_of = SON
+		
+		add_to_array = { state_victory_points = 8012 } 
+		add_to_array = { state_victory_points = 10848 }
+		victory_points = { 8012 1 } #Nogales
+		victory_points = { 10848 3 } #Hermosillo
+
+		buildings = {
+			infrastructure = 1
+			air_base = 2
+		}
+	}
+
+	provinces = {
+		2069 5071 8012 10848 12897 13490 
+	}
+}
+

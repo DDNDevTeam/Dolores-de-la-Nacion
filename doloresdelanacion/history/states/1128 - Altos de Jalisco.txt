@@ -1,0 +1,22 @@
+state = {
+	id = 1128
+	name = "STATE_1128"
+	manpower = 0
+	state_category = one
+
+	history = {
+		owner = MEX
+		add_core_of = MEX
+		
+		add_to_array = { state_victory_points = 13463 }
+		victory_points = { 13463 1 } #Tepatitlan
+
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces = {
+		2008 13463 
+	}
+}

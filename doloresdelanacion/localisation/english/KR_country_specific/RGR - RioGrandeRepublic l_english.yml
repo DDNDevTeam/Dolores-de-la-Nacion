@@ -1,0 +1,47 @@
+﻿l_english:
+
+ riogrande_focus: "Rio Grande Focus Tree"
+
+### Cosmetic Tags ###
+ RRG: "Rio Grande"
+ RRG_ADJ: "Rio Grande"
+ RRG_DEF: "the Federal Republic of the Rio Grande"
+ 
+ RRG_national_populist: "Aridoamerica"
+ RRG_national_populist_ADJ: "Aridoamerican"
+ RRG_national_populist_DEF: "the Aridoamerican Federation"
+
+### Parties ###
+ RRG_totalist_party: "RM"
+ RRG_totalist_party_long: "Resistencia Mexicana"
+ RRG_syndicalist_party: "RM"
+ RRG_syndicalist_party_long: "Resistencia Mexicana"
+ RRG_radical_socialist_party: "RM"
+ RRG_radical_socialist_party_long: "Resistencia Mexicana"
+ RRG_social_democrat_party: "PNP"
+ RRG_social_democrat_party_long: "Partido Nacional Progresista"
+ RRG_social_liberal_party: "PC (R)"
+ RRG_social_liberal_party_long: "Partido Constitucionalista (Radicales)"
+ RRG_market_liberal_party: "PC (M)"
+ RRG_market_liberal_party_long: "Partido Constitucionalista (Moderados)"
+ RRG_social_conservative_party: "PNC"
+ RRG_social_conservative_party_long: "Partido Nacional Cristiano"
+ RRG_authoritarian_democrat_party: "PRR"
+ RRG_authoritarian_democrat_party_long: "Partido Republicano Riograndés"
+ RRG_paternal_autocrat_party: "EFR"
+ RRG_paternal_autocrat_party_long: "Ejército Federal Riograndés"
+ RRG_national_populist_party: "MNA"
+ RRG_national_populist_party_long: "Movimiento Nacionalista de Aridoamérica"
+
+###DOLORES DE LA NACION###
+
+##Army Generals##
+
+ RRG_lucio_blanco_fuentes_commander_desc: "§YGeneral Description\n§YBorn:§L August 11, in Villa de Nadaderos, Coahuila, Mexico\n§YMilitary Career:§L Following his appointment as Minister of War, Lucio Blanco was quick to spread his influence across the northeastern states of Nuevo Leon and Coahuila, there, using the fear that still remained from Plutarco Elias Calles' authoritarinism during his presidency. He started a conspiracy to overthrow the rule of the mexican government along the northern states, and when the time was right, a revolution would start that would bring forth a new Republic, with himself at it's center."
+
+### Characters ###
+
+ RRG_lucio_blanco_fuentes: "Lucio Blanco Fuentes"
+ RRG_lucio_blanco_fuentes_leader_desc: "General Lucio Blanco has consolidated his grip on the young Rio Grande Republic. After a short rebellion turned into a nation wide revolution, Blanco stands at a dire situation, having to forge a nation and establish his regime, all whilst having to defend the new nation."
+ 
+###DOLORES DE LA NACION###

@@ -1,0 +1,25 @@
+state = {
+	id = 1115
+	name = "STATE_1115"
+	manpower = 0
+	state_category = wasteland
+	
+	history = {
+		owner = MEX
+		add_core_of = MEX
+		#add_core_of = SON
+		add_to_array = { state_victory_points = 13492 }
+		victory_points = { 13492 1 } #Puerto Penasco
+		
+		buildings = {
+			infrastructure = 0
+			13492 = {
+				naval_base = 1
+			}
+		}
+	}
+	
+	provinces = {
+		4908 13492 
+	}
+}

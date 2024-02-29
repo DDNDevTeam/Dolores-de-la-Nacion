@@ -1,0 +1,28 @@
+state = {
+	id = 480
+	name = "STATE_480"
+	manpower = 505000
+	state_category = three
+
+	history = {
+		owner = MEX
+		add_core_of = MEX
+		#add_core_of = RGR
+		add_to_array = { state_victory_points = 10746 }
+		add_to_array = { state_victory_points = 10800 }
+		add_to_array = { state_victory_points = 13483 }
+		victory_points = { 10746 2 } #Monclova
+		victory_points = { 10800 5 } #Torreon
+		victory_points = { 13483 2 } #Piedras Negras
+
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 1
+		}
+	}
+
+	provinces = {
+		2060 2104 10746 10800 12811 12850 13480 13482 13483 
+	}
+}

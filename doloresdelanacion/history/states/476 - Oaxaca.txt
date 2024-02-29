@@ -1,0 +1,27 @@
+state = {
+	id = 476
+	name = "STATE_476"
+	manpower = 1149496	
+	state_category = two
+
+	history = {
+		owner = MEX
+		add_core_of = MEX
+		
+		add_to_array = { state_victory_points = 13448 }
+		add_to_array = { state_victory_points = 13451 }
+		victory_points = { 13448 1 } #Juchitan
+		victory_points = { 13451 5 } #Oaxaca
+
+		buildings = {
+			infrastructure = 1
+			13448 = {
+				naval_base = 1
+			}
+		}
+	}
+
+	provinces = {
+		8236 10773 12712 13445 13448 13451 
+	}
+}

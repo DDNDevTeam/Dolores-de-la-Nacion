@@ -1,0 +1,25 @@
+state = {
+	id = 277
+	name = "STATE_277" #Ciudad de Mexico
+	manpower = 1546348
+	state_category = seven
+
+	history = {
+		owner = MEX
+		add_core_of = MEX
+		
+		add_to_array = { state_victory_points = 1965 }
+		victory_points = { 1965 30 } #Ciudad de Mexico
+
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 3
+			arms_factory = 2
+			air_base = 5
+		}
+	}
+
+	provinces = {
+		1965 
+	}
+}

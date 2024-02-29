@@ -1,0 +1,28 @@
+state = {
+	id = 1116
+	name = "STATE_1116"
+	manpower = 453940
+	state_category = two
+
+	history = {
+		owner = MEX
+		add_core_of = MEX
+		add_to_array = { state_victory_points = 4977 }
+		add_to_array = { state_victory_points = 8057 }
+		add_to_array = { state_victory_points = 13473 }
+		victory_points = { 4977 2 } #Los Mochis
+		victory_points = { 8057 2 } #Culiacan
+		victory_points = { 13473 3 } #Mazatlan
+
+		buildings = {
+			infrastructure = 1
+			8057 = {
+				naval_base = 1
+			}
+		}
+	}
+
+	provinces = {
+		4977 8057 13473 13478 
+	}
+}

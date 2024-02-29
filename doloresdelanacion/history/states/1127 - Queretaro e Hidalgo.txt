@@ -1,0 +1,26 @@
+state = {
+	id = 1127
+	name = "STATE_1127"
+	manpower = 974665
+	state_category = three
+
+	history = {
+		owner = MEX
+		add_core_of = MEX
+		#add_core_of = SON
+		
+		add_to_array = { state_victory_points = 4946 }
+		add_to_array = { state_victory_points = 10853 }
+		victory_points = { 4946 2 } #Queretaro
+		victory_points = { 10853 2 } #Pachuca
+
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		}
+	}
+
+	provinces = {
+		4946 8003 10853 10871 13475 
+	}
+}

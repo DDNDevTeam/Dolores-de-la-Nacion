@@ -1,0 +1,25 @@
+state = {
+	id = 485
+	name = "STATE_485"
+	manpower = 66675
+	state_category = three
+
+	history = {
+		owner = MEX
+		add_core_of = MEX
+		
+		add_to_array = { state_victory_points = 13449 }
+		add_to_array = { state_victory_points = 13454 }
+		victory_points = { 13449 1 } #Acapulco
+		victory_points = { 13454 5 } #Chilpancingo
+
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+		}
+	}
+
+	provinces = {
+		10730 10832 13449 13454 
+	}
+}

@@ -1,0 +1,25 @@
+state = {
+	id = 1124
+	name = "STATE_1124"
+	manpower = 0
+	state_category = two
+
+	history = {
+		owner = MEX
+		add_core_of = MEX
+		#add_core_of = RGR
+		add_to_array = { state_victory_points = 10769 }
+		add_to_array = { state_victory_points = 13479 }
+		victory_points = { 10769 1 } #Reynosa
+		victory_points = { 13479 2 } #Nuevo Laredo
+
+		buildings = {
+			infrastructure = 1
+			industrial_complex = 1
+		}
+	}
+
+	provinces = {
+		10769 13479 
+	}
+}

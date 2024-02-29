@@ -1,0 +1,25 @@
+state = {
+	id = 1118
+	name = "STATE_1118"
+	manpower = 72052
+	state_category = two
+
+	history = {
+		owner = MEX
+		add_core_of = MEX
+		
+		add_to_array = { state_victory_points = 8032 }
+		victory_points = { 8032 3 } #Manzanillo
+
+		buildings = {
+			infrastructure = 1
+			8032 = {
+				naval_base = 5
+			}
+		}
+	}
+
+	provinces = {
+		5066 8032 
+	}
+}

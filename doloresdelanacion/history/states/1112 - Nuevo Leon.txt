@@ -1,0 +1,25 @@
+state = {
+	id = 1112
+	name = "STATE_1112"
+	manpower = 491685
+	state_category = three
+
+	history = {
+		owner = MEX
+		add_core_of = MEX
+		#add_core_of = RGR
+		add_to_array = { state_victory_points = 13883 }
+		victory_points = { 13883 15 } #Monterrey
+
+		buildings = {
+			infrastructure = 2
+			industrial_complex = 1
+			arms_factory = 1
+			air_base = 3
+		}
+	}
+
+	provinces = {
+		13879 13881 13882 13883 13884 13885 13886 13887 13888 13889
+	}
+}

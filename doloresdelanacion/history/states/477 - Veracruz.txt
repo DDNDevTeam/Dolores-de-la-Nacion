@@ -1,0 +1,25 @@
+state = {
+	id = 477
+	name = "STATE_477"
+	manpower = 0
+	state_category = three
+
+	history = {
+		owner = MEX
+		add_core_of = MEX
+		
+		add_to_array = { state_victory_points = 13456 }
+		victory_points = { 13456 15 } #Veracruz
+
+		buildings = {
+			infrastructure = 3
+			13456 = {
+				naval_base = 7
+			}
+		}
+	}
+
+	provinces = {
+		13456 
+	}
+}

@@ -1,0 +1,25 @@
+state = {
+	id = 1114
+	name = "STATE_1114"
+	manpower = 49718
+	state_category = one
+
+	history = {
+		owner = MEX
+		add_core_of = MEX
+		#add_core_of = SON
+		add_to_array = { state_victory_points = 13469 }
+		victory_points = { 13469 3 } #La Paz
+		
+		buildings = {
+			infrastructure = 0
+			13469 = {
+				naval_base = 2
+			}
+		}
+	}
+	
+	provinces = {
+		1904 7964 8119 12736 13469 
+	}
+}

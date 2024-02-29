@@ -1,0 +1,22 @@
+state = {
+	id = 475
+	name = "STATE_475"
+	manpower = 0
+	state_category = one
+
+	history = {
+		owner = MEX
+		add_core_of = MEX
+		
+		add_to_array = { state_victory_points = 13442 }
+		victory_points = { 13442 3 } #Tuxtla-Gutierrez
+
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces = {
+		13442 13450 13453 
+	}
+}

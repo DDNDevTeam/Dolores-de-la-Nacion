@@ -1,0 +1,22 @@
+state = {
+	id = 1117
+	name = "STATE_1117"
+	manpower = 0
+	state_category = one
+
+	history = {
+		owner = MEX
+		add_core_of = MEX
+		
+		add_to_array = { state_victory_points = 10732 }
+		victory_points = { 10732 1 } #Xalapa-Enriquez
+
+		buildings = {
+			infrastructure = 1
+		}
+	}
+
+	provinces = {
+		7913 8089 10732 
+	}
+}

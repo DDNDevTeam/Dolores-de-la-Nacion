@@ -1,0 +1,26 @@
+state = {
+	id = 1126
+	name = "STATE_1126"
+	manpower = 1246119
+	state_category = six
+
+	history = {
+		owner = MEX
+		add_core_of = MEX
+		
+		add_to_array = { state_victory_points = 12755 }
+		add_to_array = { state_victory_points = 13458 }
+		victory_points = { 12755 5 } #Toluca
+		victory_points = { 13458 1 } #Cuernavaca
+
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 3
+			arms_factory = 1
+		}
+	}
+
+	provinces = {
+		2011 4956 12755 13458 
+	}
+}

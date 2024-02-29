@@ -1,0 +1,30 @@
+state = {
+	id = 478
+	name = "STATE_478"
+	manpower = 0
+	state_category = three
+
+	history = {
+		owner = MEX
+		add_core_of = MEX
+		
+		add_to_array = { state_victory_points = 12833 }
+		add_to_array = { state_victory_points = 13089 }
+		victory_points = { 12833 2 } #Puerto Vallarta
+		victory_points = { 13089 20 } #Guadalajara
+
+
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 1
+			air_base = 2
+			13459 = {
+				naval_base = 1
+			}
+		}
+	}
+
+	provinces = {
+		2051 4887 13089 13459 
+	}
+}
