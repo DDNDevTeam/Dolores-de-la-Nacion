@@ -1,0 +1,39 @@
+characters = {
+	RGR_lucio_blanco_fuentes = {
+		name = RGR_lucio_blanco_fuentes
+		portraits = {
+			civilian = {
+				large = "gfx/leaders/RGR/Portrait_Lucio_Blanco_Fuentes.png"
+				small = "gfx/interface/advisors/RGR/RGR_lucio_blanco_fuentes.png"
+			}
+			army = {
+				large = "gfx/leaders/RGR/Portrait_Lucio_Blanco_Fuentes_General.png"
+			}
+		}
+		country_leader = {
+			desc = RGR_lucio_blanco_fuentes_leader_desc
+			ideology = authoritarian_democrat_subtype
+		}
+		field_marshal = {
+			desc = RGR_lucio_blanco_fuentes_commander_desc
+			traits = {
+				career_officer
+				inspirational_leader
+				trickster
+				organizer
+			}
+			skill = 3
+			attack_skill = 4
+			defense_skill = 2
+			planning_skill = 1
+			logistics_skill = 2
+		}
+		advisor = {
+			slot = high_command
+			idea_token = RGR_lucio_blanco_fuentes
+			ledger = army
+			traits = { KR_MHC_infantry_2 }
+			cost = 100
+		}
+	}
+}
